@@ -1,0 +1,17 @@
+{
+  "name": "chriscowley-custom_facts",
+  "version": "1.0.0",
+  "author": "chriscowley",
+  "summary": "Custom facts for Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/chriscowley/custom_facts.git",
+  "project_page": "https://github.com/chriscowley/custom_facts",
+  "issues_url": "https://github.com/chriscowley/custom_facts/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
